@@ -2,7 +2,7 @@
 1、背景  
 原版是重装机兵 梦想起飞3.4 ，作者 小卡  
 此破解版项目使用RPGMakerXP 1.05a创建，主要语言ruby  
-玩家下载后，电脑上直接双击game.exe便能运行游戏，安卓手机需下载joiPlay等模拟器和rtp组件运行游戏  
+玩家下载后，电脑上直接双击game.exe便能运行游戏，安卓手机需下载joiPlay等模拟器和rtp组件运行游戏，如果出现报错 RGSS-RTP Standard not found，安装 xp_rtp104e.exe  
 同人作者用RPXP打开项目便能直接修改，二次创作无需经过我同意  
 
 
